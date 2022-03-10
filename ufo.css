@@ -45,7 +45,7 @@ main{
     border-radius: 15px;
     box-shadow: 0 9px #999;
 }
-.butt:hover {background-color: #3e8e41}
+.butt:hover {background-color: #9CD3F5}
 
 .butt:active {
   background-color: #3e718e;
